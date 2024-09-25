@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873616069151",
+    "project_id": "wafahrha",
+    "storage_bucket": "wafahrha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873616069151:android:07e0d89697470513633b2a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmudJr4fE3hYujsBmIzPweUMUT5xnXdqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
